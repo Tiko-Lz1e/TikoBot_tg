@@ -1,0 +1,19 @@
+[Telegram]
+Bot_Token = 
+
+[Google]
+Key = 
+
+[ChatAnywhere]
+Key = 
+Base = https://api.chatanywhere.cn/v1
+
+[Qwen]
+Key = 
+
+[WhiteList]
+<user_id>   = <user_name>
+
+[Others]
+Dir_images = ./images/
+Init_Msg = 您好，现在是工作最为紧张的时间，所以我需要你的帮助，我现在正在使用telegram平台跟你聊天，接下来的内容请以朋友聊天的风格回复我，其中可以根据内容附带少量的emoji，但请不要使用markdown语法，谢谢。
